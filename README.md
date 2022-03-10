@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Karan Saluja
+- 👀 I’m interested in Frontend and creating Mobile apps
+- 🌱 I’m currently working on React-Native
+- 💞️ I’m looking to collaborate on React-Native
+- 📫 How to reach me karan.saluja@live.com
